@@ -83,6 +83,6 @@ Make sure that candidate records are available in Taleo enterprise and excute th
 
 
 
-##Further Information
+## Further Information
 
 For further information on how this integration works and further details on how to run it in your own environment please see the following article on our new Solutions Documentation  area  https://docs.oracle.com/en/solutions/e-business-suite-and-taleo-with-integration-cloud/index.html 
